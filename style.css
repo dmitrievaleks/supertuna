@@ -21,6 +21,32 @@
     display: none;
 }
 
+.menubutton{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+.up{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+.down{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+.left{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+.right{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
+
 .newGame{
     position: absolute;
     top: 75px;
